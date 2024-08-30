@@ -6,8 +6,8 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>app/page.tsx</code>
+          Hello PR-Agent!<br />
+          これはPR-Agentの動作確認のために作成したシンプルなNext.jsアプリケーションです。
         </p>
         <div>
           <a
